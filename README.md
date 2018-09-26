@@ -5,3 +5,5 @@ In our experiment, the matrix factorization based collaborative filtering algori
 
 KEYWORDS
 Recommender System, Collaborative Filtering, Matrix Factorization, Alternating Least Square
+
+Click on the jupyter notebook for more information.
